@@ -44,4 +44,4 @@ For any clarification or addition information, contact the author at gachegua@gm
 
 ## License
 
-This software is Licensed under MIT license Copyright (2019) [gkarumba] (#)
+This software is Licensed under MIT license Copyright (2019) [gkarumba] (https://github.com/gkarumba/Quote-App/blob/master/LICENSE)
