@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A simple WebApp that allows a user to create a quote, view quotes, upVote or downVote a quote and delete a quote.
 
-[homepage](https://github.com/gkarumba/Quote-App/blob/master/src/assets/HomeScreen.png)
+![homepage](https://github.com/gkarumba/Quote-App/blob/master/src/assets/HomeScreen.png)
 
 ## Built By
 
