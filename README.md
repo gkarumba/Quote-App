@@ -1,6 +1,18 @@
-# QuoteApp
+# Quote
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+
+## Description
+
+A simple WebApp that allows a user to create a quote, view quotes, upVote or downVote a quote and delete a quote.
+
+## Built By
+
+John Karumba
+
+## Live Site
+
+Can be accessed [here] (#)
 
 ## Development server
 
@@ -25,3 +37,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Author's Contact
+
+For any clarification or addition information, contact the author at gachegua@gmail.com
+
+## License
+
+This software is Licensed under MIT license Copyright (2019) [gkarumba] (#)
